@@ -114,6 +114,11 @@ button {
   color: var(--color-brand-text);
 }
 
+h1 {
+  font-size: inherit;
+  font-weight: inherit;
+}
+
 /* ================ Texts ================ */
 /* Sizes */
 .text-xs {
